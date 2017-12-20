@@ -4,4 +4,4 @@ title: Outreach
 permalink: /outreach/
 ---
 
-Outreach activities
+I have been fortunate enough to participate in scientific outreach across many age ranges. 

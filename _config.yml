@@ -8,6 +8,8 @@ url: "" # the base hostname & protocol for your site
 twitter_username: Lauren_E_Blake
 github_username:  Lauren-Blake
 
+future: true
+
 # Build settings
 markdown: kramdown
 

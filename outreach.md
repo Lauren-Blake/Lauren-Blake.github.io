@@ -3,4 +3,5 @@ layout: page
 title: Outreach
 permalink: /outreach/
 ---
-About my outreach
+
+Outreach activities

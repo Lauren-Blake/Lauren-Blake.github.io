@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Improvement #1: Starting with the main message"
+date: 2017-12-21
+---
+
+In my last [post](http://lauren-blake.github.io/2017/12/19/welcome.html), I discussed trying to learn from my mistakes from [paper 1](https://www.biorxiv.org/content/early/2017/05/09/135442). While I am really happy with how the paper turned out *eventually* it took a long time (and lots of edits from my advisor!) to get it that way. Consequently, for paper 2 (forthcoming) I decided to almost entirely re-think my process. 
+
+Thinking back to the first draft of the first paper, I committed two grave sins: 
+
+1. Completely forget to write up and include a major section in the text. (Yup, I didn't write anything about completing pairwise differential expression analysis. For those curious, the section I forgot was "Comparative assessment of gene expression changes during differentiation". 
+2. Writing the results without context or narrative.
+
+While 2 is more complex (and will therefore also be the subject of future posts), 1 is definitely avoidable! Consequently the first thing that I did when writing this paper was to write a clear thesis (main argument) and the 5 section headers for each of my results sections. That way, I always had the the main message and results of the paper as a guide. 
+
+Here is a screen shot of my first round of Results headers.
+

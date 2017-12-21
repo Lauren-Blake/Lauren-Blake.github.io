@@ -8,10 +8,25 @@ In my last [post](http://lauren-blake.github.io/2017/12/19/welcome.html), I disc
 
 Thinking back to the first draft of the first paper, I committed two grave sins: 
 
-1. Completely forget to write up and include a major section in the text. (Yup, I didn't write anything about completing pairwise differential expression analysis. For those curious, the section I forgot was "Comparative assessment of gene expression changes during differentiation". 
-2. Writing the results without context or narrative.
+* Completely forget to write up and include a major section in the text. (Yup, I didn't write anything about completing pairwise differential expression analysis. For those curious, the section I forgot was "Comparative assessment of gene expression changes during differentiation". 
 
-While 2 is more complex (and will therefore also be the subject of future posts), 1 is definitely avoidable! Consequently the first thing that I did when writing this paper was to write a clear thesis (main argument) and the 5 section headers for each of my results sections. That way, I always had the the main message and results of the paper as a guide. 
+* Writing the results without context or narrative.
+
+While 2 is more complex (and will therefore also be the subject of future posts), 1 is definitely avoidable! Consequently the first thing that I did when writing this paper was to think about the following. 
+
+1. What does the previous literature say about my topic? (I focused this by deep reading into 2-3 papers and also skimming 5 or so other papers)
+
+2. How is my study different from the previous literature?
+
+3. What are the main result(s) of my study? 
+
+4. What is my most interesting/unexpected/cool result?
+
+5. How do the results of my study contribute to the literature?
+
+6. What is the main message of my paper?
+
+I had already written the answer to 2. (inadvertently) in a lab meeting presentation, so the first thing that I formally wrote for the paper was 5 section headers, which corresponded to each of my results sections. That way, I always results of the paper as a guide. 
 
 Here is a screen shot of my first round of Results headers.
 

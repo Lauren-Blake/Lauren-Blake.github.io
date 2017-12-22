@@ -32,4 +32,4 @@ Here is a screen shot of my first round of Results headers.
 
 ![picture](/images/draft_headers.png)
 
-## Want to try this for yourself? [Here's a worksheet](https://github.com/Lauren-Blake/Lauren-Blake.github.io/tree/master/Writing_worksheets/Main_message.docx) to help you!
+## Want to try this for yourself? [Here's a worksheet](/Writing_worksheets/Main_message.docx) to help you!

@@ -36,7 +36,17 @@ Let's break this down into our 4 questions from the previous section:
 
 ## My improvement for paper #2
 
-After [writing the "Results" headers](http://lauren-blake.github.io/2017/12/23/improvement2.html), I then went and filled in each section with the     
+After [writing the "Results" headers](http://lauren-blake.github.io/2017/12/23/improvement2.html), I then went and filled in each section with the bullet points for each result. I used about 5-10 bullet points for each subsection and usually about 3 subsection per results header. 
+
+After I finished this task, I took a mental break for a few days (Happy winter holidays!) and then I came back to the outline with fresh eyes. Instead of immediately jumping into writing the paper, I then looked to see if the bullets in each subsection answered questions #1-4 above. Most of them answered some combination of them (most commonly #2 and #3, but not all of them!) Therefore, I added text to answer questions #1-4, which helped me to build the narrative. Hopefully you can see from this what I mean:   
+
+For example, my original bullet point read, "Conserved inter-tissue gene expression differences (since we are most confident in these) and compared to rank in GTEx data, consistency between the data. GO for tissue specific". While this  discussed what we did and the results (somewhat, since I still have to finish the analysis), it didn't address questions #1 and #4 above. As a result, I added in the following, 
+
+"Attempted to benchmark our use of adaptive shrinkage method. We chose to test the conserved inter-tissue gene expression differences (since we are most confident in these), resulting in one set of genes for each tissue. We first compared each set to its relative rank in GTEx data, and found consistency between the data. When we performed Gene Ontology (GO), we found for tissue-specific functions were highly enriched in the proper tissue, e.g. ) These results suggest that the use of adaptive shrinkage/FSR increases our power to detect genes with a conserved, significant tissue-specific direction in expression, while still maintaining a high sensitivity." Phrase 1 discuss the overall goal of the analysis (question #1), phrase 2 and the beginnings of phrases 3 and 4 discuss what we did (question #2), the ends of phrases 3 and 4 discuss our findings (question #3) and the last sentence sentence discusses what the results suggest (question #4). 
+
+I found that writing the outline in stages helped me to first get my ideas on the page (and make sure I wasn't missing any major results!), *and then* focus on the narrative of the paper. Perhaps breakingit down will also work for you!
+
+## Worksheet coming soon!
+     
 
 
-## Want to try this for yourself? [Here's a worksheet](/Writing_worksheets/Contents_list.pdf) to help you!
